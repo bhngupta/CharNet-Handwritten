@@ -10,6 +10,7 @@ Character Convolution Network to recognize the digits and characters from A-Z an
 | Characters (a-z) | ~89% |
 
 ## Working
+![](https://raw.githubusercontent.com/Bhanu-mbvg/CharNet-Handwritten/main/src/download.png?token=AKWIN22CACV5HDYUULSZ3I3APVYPW)
 
 ## Additional 
 1. Architecture used - LeNet-1

@@ -1,1 +1,1 @@
-# MNIST-Playground
+# CharNet-Handwritten
